@@ -52,4 +52,4 @@ Además: relojes de Nueva York y Colombia en hora real, "Mi dirección" con "Ll�
 1. Crea el repositorio `nueva-york-para-latinos` en github.com/haroldco45.
 2. Sube los 7 archivos: `index.html`, `manifest.json`, `sw.js`, `icon-192.png`, `icon-512.png`, `og-image.png`, `README.md`.
 3. Settings → Pages → Branch `main` / root → Save.
-4. Conecta el repo en Netlify como `nueva-york-para-latinos` (la vista previa de WhatsApp apunta a nueva-york-para-latinos.netlify.app).
+4. La vista previa de WhatsApp (og-image) apunta a GitHub Pages: haroldco45.github.io/nueva-york-para-latinos.
